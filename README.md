@@ -1,4 +1,5 @@
 <h1>Hi, my name is Luis Alejandro 😁</h1>
+<hr>
     <div align="center">
     💻 Computer Engineering Student&nbsp;&nbsp;|&nbsp;&nbsp;🧑🏻‍💻 Web Developer Jr&nbsp;&nbsp;|&nbsp;&nbsp;👾 Try Pentester Jr
     </div>
