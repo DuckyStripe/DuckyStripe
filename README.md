@@ -25,7 +25,6 @@
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 <br>
 <hr>
-| <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-6clit6gwu-duckystripe.vercel.app/api/top-langs/?username=duckystripe&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-6clit6gwu-duckystripe.vercel.app/api?username=duckystripe&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-6clit6gwu-duckystripe.vercel.app/api/top-langs/?username=duckystripe&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-6clit6gwu-duckystripe.vercel.app/api?username=duckystripe&show_icons=true&theme=tokyonight" alt="My stats" /></a> 
 <hr>
 <br>
